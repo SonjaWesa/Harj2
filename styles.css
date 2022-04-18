@@ -1,0 +1,26 @@
+/*Oletusmuotoilu*/
+body {
+  font-family: Tahoma;
+}
+/*otsikon muotoilu*/
+h1 {
+  font-family: helvetica;
+  background-color: rgba(37, 119, 105, 0.781);
+  color: rgb(255, 255, 255);
+}
+/*h2,h3 muotoilu*/
+h2,
+h3 {
+  font-family: helvetica;
+}
+/*Piilotetut napit oletuksena*/
+#myLinks {
+  display: none;
+}
+/*Listamuotoilut*/
+ul li {
+  list-style-type: circle;
+}
+ul ul li {
+  list-style-type: disc;
+}
